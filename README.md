@@ -80,9 +80,9 @@ Find the employee with the highest job level.
 
 **SQL Query**
 
-> *(Insert screenshot below)*
-
 <img width="652" height="142" alt="query_1" src="https://github.com/user-attachments/assets/8291acdb-708e-4b7c-aae3-06fcb91255a3" />
+
+**Output**
 
 | Employee ID | Last Name | First Name | Title                  | Reports To | Level | Birthdate  | Hire Date  | Address            | City     | State | Country | Postal Code | Phone             | Fax               | Email                                                             |
 | ----------: | --------- | ---------- | ---------------------- | ---------- | ----- | ---------- | ---------- | ------------------ | -------- | ----- | ------- | ----------- | ----------------- | ----------------- | ----------------------------------------------------------------- |
