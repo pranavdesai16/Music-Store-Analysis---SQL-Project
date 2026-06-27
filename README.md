@@ -97,6 +97,7 @@ Find the employee with the highest job level.
 
 Identify countries generating the highest number of invoices.
 
+<img width="652" height="137" alt="query_2" src="https://github.com/user-attachments/assets/ae3b97d6-5b69-4903-83ac-64974aa4a3f7" />
 
 
 **Output**
