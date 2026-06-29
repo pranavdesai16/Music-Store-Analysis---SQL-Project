@@ -117,7 +117,7 @@ ORDER BY c DESC;
 
 **Output**
 
-| Total Invoices | Billing Country |
+|        c       | Billing Country |
 | -------------: | --------------- |
 |            131 | USA             |
 |             76 | Canada          |
